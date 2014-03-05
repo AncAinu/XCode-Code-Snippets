@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>forin</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>int i = 0;
+	for (&lt;#type *object#&gt; in &lt;#collection#&gt;) {
+		&lt;#statements#&gt;
+		i++;
+	}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6E8611CD-56C1-43DA-9D9E-39E1F6AE2C13</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Classic forin statement with i index</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>[Custom] Forin Statement with index</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
